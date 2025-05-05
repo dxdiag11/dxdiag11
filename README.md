@@ -9,13 +9,13 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/fabio-viandino-75944a163" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:youremail@example.com" target="blank">
+  <a href="mailto:fabio.viandino@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://www.figma.com/@yourfigma" target="blank">
+  <a href="https://www.figma.com/@viandino" target="blank">
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   </a>
 </p>
