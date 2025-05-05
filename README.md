@@ -1,46 +1,75 @@
-<h1 align="center">Hi there! I'm Fabio 👋</h1>
+<!-- Profil Header -->
+<h1 align="center">Hi 👋, I'm Fabio</h1>
+<h3 align="center">A passionate Frontend Developer from Indonesia 🇮🇩</h3>
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React%20%7C%20Next.js%20%7C%20Figma%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
+</p>
+
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:youremail@example.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.figma.com/@yourfigma" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <b>Frontend Developer | React & Next.js Developer | UI Designer</b><br/>
-  <i>Crafting beautiful and performant web experiences</i>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma,git,vscode" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-- ⚛️ React.js | 🔀 Next.js | 🎨 Figma  
-- 🧰 Tailwind CSS | Sass | Framer Motion  
-- 🌐 HTML | CSS | JavaScript (ES6+)
-
----
-
-### 🔥 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxdiag11&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiag11&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dxdiag11&theme=radical" alt="dxdiag11's GitHub streak" />
+  
 </p>
 
 ---
 
-### 🎯 About Me
+## 🏆 GitHub Trophies
 
-- 💼 Passionate about crafting intuitive UIs & seamless UX
-- 🌱 Currently exploring animation with Framer Motion
-- 🧠 Always learning and pushing boundaries
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:youremail@gmail.com">📧 Email</a> • 
-  <a href="https://www.figma.com/@yourfigma">🎨 Figma</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dxdiag11&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="dxdiag11's GitHub trophies" />
 </p>
 
 ---
+
+## 📊 Weekly Development Breakdown
+
+<!-- Wakatime stats -->
+<!-- Uncomment the below section if you have Wakatime account -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="Wakatime stats" />
+</p>
+-->
+
+---
+
+## 🎯 About Me
+
+- 🔭 I’m currently working on **Awesome Frontend Projects**
+- 🌱 I’m currently learning **Framer Motion and Three.js**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Next.js, and UI/UX Design**
+- 📫 How to reach me: **fabio.viandino@gmail.com**
+- ⚡ Fun fact: **I can remember keyboard shortcuts better than my friends' birthdays.**
+
+---
+
+## 💡 Quote
 
 > "Design isn’t just what it looks like and feels like — design is how it works." – *Steve Jobs*
-
