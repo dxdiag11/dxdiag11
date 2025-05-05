@@ -1,6 +1,9 @@
 <!-- Profil Header -->
 <h1 align="center">Hi 👋, I'm Fabio</h1>
-<h3 align="center">A passionate Frontend Developer from Indonesia 🇮🇩</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Marioo" width="500"/>
+</p>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/>A passionate Frontend Developer from Indonesia 🇮🇩 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/></h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -9,13 +12,13 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabio-viandino-75944a163" target="blank">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:fabio.viandino@gmail.com" target="blank">
+  <a href="mailto:youremail@example.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://www.figma.com/@viandino" target="blank">
+  <a href="https://www.figma.com/@yourfigma" target="blank">
     <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   </a>
 </p>
@@ -73,3 +76,11 @@
 ## 💡 Quote
 
 > "Design isn’t just what it looks like and feels like — design is how it works." – *Steve Jobs*
+
+---
+
+## 📈 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dxdiag11&label=Profile%20views&color=0e75b6&style=flat" alt="dxdiag11" />
+</p>
