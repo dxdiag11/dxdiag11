@@ -65,11 +65,10 @@
 ## 🎯 About Me
 
 - 🔭 I’m currently working on **Awesome Frontend Projects**
-- 🌱 I’m currently learning **Framer Motion and Three.js**
+- 🌱 I’m currently learning **Framer Motion and GSAP**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Next.js, and UI/UX Design**
 - 📫 How to reach me: **fabio.viandino@gmail.com**
-- ⚡ Fun fact: **I can remember keyboard shortcuts better than my friends' birthdays.**
 
 ---
 
